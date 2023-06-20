@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Git Documentation
+nav_order: 1
 ---
 
 # Welcome to the Git Documentation Repository!
