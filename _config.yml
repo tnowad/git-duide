@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Git Documentation Repository
+description: A comprehensive documentation repository for Git, covering basic concepts, workflows, collaboration, advanced features, best practices, troubleshooting, and more.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://tnowad.github.io/git-guide/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
